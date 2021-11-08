@@ -1,0 +1,1 @@
+export const areaOfCircle = r => (r**2) * Math.PI
